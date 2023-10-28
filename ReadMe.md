@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Totemware-App<br>👯 I’m looking to collaborate on Dating-App<br>🤝 I’m looking for help with Totemware-App-Api<br>🌱 I’m currently learning C and C++<br>💬 Ask me about my Hobbys or C#<br>⚡ Fun fact: My birthday is 5.12.02
+🔭 I’m currently working on Games<br>👯 I’m looking to collaborate on making games<br>🤝 I’m looking for help with game maths<br>🌱 I’m currently learning C and C++<br>💬 Ask me about my Hobbys or C#<br>⚡ Fun fact: My birthday is 5.12.02
 
 
 ## 🌐 Socials:
